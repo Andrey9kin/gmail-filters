@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<author>
+		<name>Andrey Devyatkin</name>
+		<email></email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<content></content>
+		<apps:property name='from' value='no-reply@slack.com'/>
+		<apps:property name='hasTheWord' value='&quot;You have a new mention&quot;'/>
+		<apps:property name='label' value='mention'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<content></content>
+		<apps:property name='from' value='no-reply@slack.com'/>
+		<apps:property name='label' value='Notifications/Slack'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
